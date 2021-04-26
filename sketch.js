@@ -43,6 +43,8 @@ function setup() {
   {
     plinkos.push(new Plinko(j,375));
   }
+  
+}
 
   
 
